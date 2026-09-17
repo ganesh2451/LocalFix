@@ -1,0 +1,28 @@
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Django database
+db.sqlite3
+
+# Environment variables
+.env
+
+# Angular dependencies
+localfix-frontend/node_modules/
+
+# Angular build files
+localfix-frontend/dist/
+
+# Angular cache
+localfix-frontend/.angular/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
